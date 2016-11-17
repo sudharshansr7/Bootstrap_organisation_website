@@ -1,15 +1,20 @@
-h1 {
-
-}
-
-#jumbo {
-
-}
-
 .service-head, h3 {
   text-align: center;
 }
 
-.image-one {
-  border-top: solid red 1px;
+.jumbotron {
+  padding-top: 68px;
+}
+
+.row {
+  padding-top: 30px;
+  padding-right: 0px;
+  margin-right: 0px;
+}
+
+
+.panel-default {
+  border-color: transparent;
+  box-shadow: 5px 5px 25px #eee;
+  padding: 10px;
 }
